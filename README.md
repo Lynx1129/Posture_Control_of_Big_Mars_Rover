@@ -15,7 +15,7 @@ Big Mars Rover is a 4-wheel omnidirectional mobile robot with active suspension 
 For simplicity and fluency of computation in simulation software, we used simplied model in webots where critical parameters have been reserved. The simplified model is shown in the figure below. 
 
 <p align="center">
-  <img src="https://github.com/Lynx1129/Posture_Control_of_Big_Mars_Rover/blob/main/Images/Rover_Sensor.png" width="600" height="400">
+  <img src="https://github.com/Lynx1129/Posture_Control_of_Big_Mars_Rover/blob/main/Images/Rover_Sensor.png" width="600" height="360">
 </p>
 
 ## Expriment
