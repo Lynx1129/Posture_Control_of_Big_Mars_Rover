@@ -22,7 +22,7 @@ For simplicity and fluency of computation in simulation software, we used simpli
 BMR model was used to conduct a comparison experiment on complex terrain under different attitude control strategies in Webots simulation platform, so as to verify the feasibility of different attitude optimization methods.  
 
 <p align="center">
-  <img src="https://github.com/Lynx1129/Posture_Control_of_Big_Mars_Rover/blob/main/Images/Rover%E8%BF%87%E5%B4%8E%E5%B2%96%E8%B7%AF%E9%9D%A2.png" width="600" height="250">
+  <img src="https://github.com/Lynx1129/Posture_Control_of_Big_Mars_Rover/blob/main/Images/Rover%E8%BF%87%E5%B4%8E%E5%B2%96%E8%B7%AF%E9%9D%A2.png" width="600" height="280">
 </p>
 
 
