@@ -10,8 +10,10 @@ Big Mars Rover is a 4-wheel omnidirectional mobile robot with active suspension 
 ![alt text](https://github.com/Lynx1129/Posture_Control_of_Big_Mars_Rover/blob/main/Images/Rover%E5%AE%9E%E8%BD%A6.png "BMR1")
 
 For simplicity and fluency of computation in simulation software, we used simplied model in webots where critical parameters have been reserved. The simplified model is shown in the figure below. 
+![alt text](https://github.com/Lynx1129/Posture_Control_of_Big_Mars_Rover/blob/main/Images/Rover_Sensor.png "BMR2")
 
 ## Expriment
 BMR model was used to conduct a comparison experiment on complex terrain under different attitude control strategies in Webots simulation platform, so as to verify the feasibility of different attitude optimization methods.  
+![alt text](https://github.com/Lynx1129/Posture_Control_of_Big_Mars_Rover/blob/main/Images/Rover%E8%BF%87%E5%B4%8E%E5%B2%96%E8%B7%AF%E9%9D%A2.png "experiment")
 
 
