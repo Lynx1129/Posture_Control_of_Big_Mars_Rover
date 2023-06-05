@@ -7,7 +7,7 @@ For more details, please refer to our article: [Attitude Control of an All-Wheel
 
 ## Robot and Model
 Big Mars Rover is a 4-wheel omnidirectional mobile robot with active suspension system, as shown in the figure below. The active suspension is composed of 4 linear actuator which could be controlled separately to modify the posture of robot. 
-![alt text](https://github.com/Lynx1129/Posture_Control_of_Big_Mars_Rover/blob/main/Images/Rover%E5%AE%9E%E8%BD%A6.png)
+![alt text](https://github.com/Lynx1129/Posture_Control_of_Big_Mars_Rover/blob/main/Images/Rover%E5%AE%9E%E8%BD%A6.png | width=100)
 
 For simplicity and fluency of computation in simulation software, we used simplied model in webots where critical parameters have been reserved. The simplified model is shown in the figure below. 
 ![alt text](https://github.com/Lynx1129/Posture_Control_of_Big_Mars_Rover/blob/main/Images/Rover_Sensor.png "BMR2")
