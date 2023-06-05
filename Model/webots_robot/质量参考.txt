@@ -1,0 +1,20 @@
+Rover
+
+steer motor: 2.8kg
+
+单个wheel 2.2kg
+
+sidebar: 0.2kg （二合一）
+
+bigsidebar: 1.6kg
+
+电推杆：上下均为0.18kg
+
+差速杆：0.2kg
+
+鱼眼杆：0.1kg
+
+body: 5kg
+
+总计： Rover mass = 31.64kg
+
